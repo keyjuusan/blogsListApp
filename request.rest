@@ -1,0 +1,9 @@
+POST http://localhost:3004/api/blogs
+Content-Type: application/json
+
+{
+    "autor": "Yo",
+    "titulo": "Un Titulo Llamativo",
+    "link": "https://github.com/keyjuusan",
+    "likes": 1
+}
